@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+    background-image: url(https://images.unsplash.com/photo-1516617442634-75371039cb3a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGhvdG8lMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80);
+    background-size: cover;    
+}
+
+form {
+    background-color: rgba(244, 76, 76, 0.53);
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: left;
+    line-height: 2.5rem;
+    padding: 3%;
+    font-size: 1.2rem;
+}
+
+#title {
+    color: white;
+}
+
+#description {
+    color: white;
+}
+
+.comment {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#submit {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#name {
+    width: 90%;
+}
+
+#email {
+    width: 90%;
+}
+
+#number {
+    width: 90%
+}
+
+#dropdown {
+    width: 90%
+}
+
+label {
+    font-weight: 700;
+}
+
+.option {
+    font-weight: 400;
+}
